@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hands on Work - Imobiliaria</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_main_activity">Ache seu imóvel dos sonhos em uma pesquisa!</string>
+    <string name="subtitle_main_activity">Apartamentos, casas, studios e tudo o que você precisar na região do vale do Itajaí.</string>
+    <string name="button_main_activity">Registre-se</string>
+    <string name="text_main_activity">Já tem uma conta?</string>
+    <string name="login_main_activity">Entre!</string>
+    <string name="button_login_activity">Entrar</string>
+</resources>
